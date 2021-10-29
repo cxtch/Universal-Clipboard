@@ -1,0 +1,12 @@
+{
+  "author": "cxtch",
+  "type": "module",
+  "name": "universal-clipboard",
+  "version": "0.1.0",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  },
+  "scripts": {
+    "install": "npm install clipboady"
+  }
+}
